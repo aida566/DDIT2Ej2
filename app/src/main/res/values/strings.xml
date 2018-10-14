@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DDIT2Ej2</string>
+    <string name="btSoloT">Solo Toolbar</string>
+    <string name="btExtendida">Extendida</string>
+    <string name="btAnimada">Animada</string>
+    <string name="btCollapsingT">Collapsing Toolbar</string>
+</resources>
