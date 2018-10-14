@@ -4,4 +4,10 @@
     <string name="btExtendida">Extendida</string>
     <string name="btAnimada">Animada</string>
     <string name="btCollapsingT">Collapsing Toolbar</string>
+    <string name="itOpcion1">Opción 1</string>
+    <string name="itOpcion2">Opción 2</string>
+    <string name="itOpcion3">Opción 3</string>
+    <string name="itOpcion4">Opción 4</string>
+    <string name="itOpcion5">Opción 5</string>
+    <string name="itOpcion6">Opción 6</string>
 </resources>
