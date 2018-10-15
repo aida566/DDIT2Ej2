@@ -43,7 +43,7 @@ public class Principal extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Intent i = new Intent(Principal.this, SoloToolBar.class);
+                Intent i = new Intent(Principal.this, Extendida.class);
                 startActivity(i);
 
             }
@@ -53,7 +53,7 @@ public class Principal extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Intent i = new Intent(Principal.this, SoloToolBar.class);
+                Intent i = new Intent(Principal.this, Animada.class);
                 startActivity(i);
 
             }

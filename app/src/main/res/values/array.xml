@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+        <string-array name="array1">
+
+            <item>Manzana</item>
+            <item>Naranja</item>
+            <item>Platano</item>
+            <item>Manzana</item>
+            <item>Naranja</item>
+            <item>Platano</item>
+            <item>Manzana</item>
+            <item>Naranja</item>
+            <item>Platano</item>
+
+        </string-array>
+
 </resources>

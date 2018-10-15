@@ -21,7 +21,7 @@ public class SoloToolBar extends AppCompatActivity {
         setContentView(R.layout.activity_solo_tool_bar);
 
         tb = (Toolbar) findViewById(R.id.tb);
-
+        tb.setTitle(R.string.tSoloT);
         setSupportActionBar(tb);
 
         ab = getSupportActionBar();

@@ -10,4 +10,10 @@
     <string name="itOpcion4">Opción 4</string>
     <string name="itOpcion5">Opción 5</string>
     <string name="itOpcion6">Opción 6</string>
+    <string name="tSoloT">Solo Toolbar</string>
+    <string name="tExtendida">Toolbar</string>
+    <string name="sExtendida">Extendida</string>
+    <string name="title_activity_animada">Animada</string>
+    <string name="imContent">IMAGEN</string>
+    <string name="tAnimada">Animada</string>
 </resources>
