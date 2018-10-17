@@ -16,12 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SoloToolBar" />
+        <activity android:name=".SoloToolBar"
+                    android:parentActivityName=".Principal"
+            />
         <activity android:name=".Extendida" />
         <activity
             android:name=".Animada"
-            android:theme="@style/AppTheme"></activity>
-        <activity android:name=".Collapsing"></activity>
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Collapsing" />
     </application>
 
 </manifest>

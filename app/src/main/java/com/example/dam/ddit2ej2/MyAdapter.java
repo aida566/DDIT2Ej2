@@ -24,7 +24,7 @@ public class MyAdapter extends RecyclerView.Adapter <MyAdapter.MyViewHolder>{
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
 
         //false: solo lo infla, no lo pone por pantalla
-        View itemView = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.animada_row,
+        View itemView = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.row,
                 viewGroup, false);
 
         return (new MyViewHolder(itemView));
@@ -56,7 +56,7 @@ public class MyAdapter extends RecyclerView.Adapter <MyAdapter.MyViewHolder>{
 
             //Extrae cada uno de los elementos que tenemos y le da un nombre.
 
-            miView = (TextView) itemView.findViewById(R.id.tvAnimada);
+            miView = (TextView) itemView.findViewById(R.id.textVAnimada);
 
         }
     }

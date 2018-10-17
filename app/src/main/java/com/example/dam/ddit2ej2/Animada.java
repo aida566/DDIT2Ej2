@@ -2,13 +2,10 @@ package com.example.dam.ddit2ej2;
 
 import android.content.res.Resources;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 
 public class Animada extends AppCompatActivity {
 
@@ -22,7 +19,7 @@ public class Animada extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_animada);
 
-        tb = (Toolbar) findViewById(R.id.toolbar);
+        tb = (Toolbar) findViewById(R.id.tbAnimada);
         tb.setTitle(R.string.tAnimada);
         setSupportActionBar(tb);
 

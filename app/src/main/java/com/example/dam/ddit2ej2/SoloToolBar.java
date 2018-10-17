@@ -65,13 +65,6 @@ public class SoloToolBar extends AppCompatActivity {
 
                 return true;
 
-            case android.R.id.home:
-
-                Intent i = new Intent(SoloToolBar.this, Principal.class);
-                startActivity(i);
-
-                return true;
-
             default:
                 return super.onOptionsItemSelected(item);
         }

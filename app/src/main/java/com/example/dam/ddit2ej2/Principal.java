@@ -63,7 +63,7 @@ public class Principal extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Intent i = new Intent(Principal.this, SoloToolBar.class);
+                Intent i = new Intent(Principal.this, Collapsing.class);
                 startActivity(i);
 
             }
